@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nicolethedev
-- 👀 I’m interested in expanding my knowledge.
-- 🌱 I’m currently learning how to use GitHub! 
+- 👀 I’m interested starting my career in tech!
+- 🌱 I’m currently learning React. 
 - 💞️ I’m looking to collaborate on front-end projects, for now. 
-- 📫 How to reach me: Carrier pigeon should be fine! 
+- 📫 How to reach me: LinkedIn is preferred! linkedin.com/in/nicolelogantarasuk/ 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Yes, I am an elder emo and MySpace introduced me to HTML. And yes, 'HTML Rulez d00d' by TDWP was my profile song for a very long time.
+- ⚡ Fun fact: MySpace introduced me to HTML while I was in middle school! 
 - 🤘 Party on. 
 
 <!---
