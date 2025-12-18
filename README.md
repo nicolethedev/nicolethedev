@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolethedev
-- 👀 I’m interested starting my career in tech!
-- 🌱 I’m currently learning React. 
+- 👀 I’m interested in learning full-stack development (eventually!).
+- 🌱 I’m currently finishing up my freelance business website. 
 - 💞️ I’m looking to collaborate on front-end projects, for now. 
 - 📫 How to reach me: LinkedIn is preferred! linkedin.com/in/nicolelogantarasuk/ 
 - 😄 Pronouns: She/Her
